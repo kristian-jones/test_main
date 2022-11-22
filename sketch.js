@@ -50,7 +50,7 @@ function draw() {
   text(y, 70, 960);
   fill(0);
 
-     if (h == 11 && ms == 50 && s == 10 && d == 22 && m == 11 && y == 2022 ) {
+     if (h == 12 && ms == 32 && s == 10 && d == 22 && m == 11 && y == 2022 ) {
 
   print("TIME");
   save( "final_image" + frameCount + ".jpg")
